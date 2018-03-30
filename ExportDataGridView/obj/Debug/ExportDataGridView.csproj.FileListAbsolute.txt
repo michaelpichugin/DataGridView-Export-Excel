@@ -1,0 +1,11 @@
+D:\Документы\Code\ExportDataGridView\ExportDataGridView\bin\Debug\ExportDataGridView.exe.config
+D:\Документы\Code\ExportDataGridView\ExportDataGridView\bin\Debug\ExportDataGridView.exe
+D:\Документы\Code\ExportDataGridView\ExportDataGridView\bin\Debug\ExportDataGridView.pdb
+D:\Документы\Code\ExportDataGridView\ExportDataGridView\bin\Debug\MetroFramework.dll
+D:\Документы\Code\ExportDataGridView\ExportDataGridView\obj\Debug\ExportDataGridView.csprojResolveAssemblyReference.cache
+D:\Документы\Code\ExportDataGridView\ExportDataGridView\obj\Debug\ExportDataGridView.Form1.resources
+D:\Документы\Code\ExportDataGridView\ExportDataGridView\obj\Debug\ExportDataGridView.Properties.Resources.resources
+D:\Документы\Code\ExportDataGridView\ExportDataGridView\obj\Debug\ExportDataGridView.csproj.GenerateResource.Cache
+D:\Документы\Code\ExportDataGridView\ExportDataGridView\obj\Debug\ExportDataGridView.csproj.CoreCompileInputs.cache
+D:\Документы\Code\ExportDataGridView\ExportDataGridView\obj\Debug\ExportDataGridView.exe
+D:\Документы\Code\ExportDataGridView\ExportDataGridView\obj\Debug\ExportDataGridView.pdb
